@@ -38,3 +38,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0009-palindrome-number) |
+# String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/altairkaitou/LeetCodePractice/tree/master/0014-longest-common-prefix) |
+# Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/altairkaitou/LeetCodePractice/tree/master/0014-longest-common-prefix) |
