@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
+| [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
+| [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 # Binary Search
 |  |
 | ------- |
@@ -64,3 +66,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0083-remove-duplicates-from-sorted-list) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
+# Matrix
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
+# Simulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
