@@ -34,3 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0009-palindrome-number) |
