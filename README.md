@@ -9,6 +9,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0015-3sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0283-move-zeroes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0015-3sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
