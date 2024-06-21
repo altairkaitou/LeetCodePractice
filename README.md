@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # Sorting
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0009-palindrome-number) |
+| [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # String
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0696-count-binary-substrings) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
+| [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # Trie
 |  |
 | ------- |
