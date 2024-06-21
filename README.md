@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0001-two-sum) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 # Two Pointers
 |  |
 | ------- |
@@ -31,3 +33,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
+| [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
