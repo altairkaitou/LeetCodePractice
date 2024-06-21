@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
+| [0033-search-in-rotated-sorted-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 # Math
