@@ -15,6 +15,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -102,3 +103,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [2886-faulty-keyboard](https://github.com/altairkaitou/LeetCodePractice/tree/master/2886-faulty-keyboard) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
