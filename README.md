@@ -20,6 +20,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3165-find-indices-with-index-and-value-difference-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 # Binary Search
 |  |
 | ------- |
