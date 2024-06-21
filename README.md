@@ -56,6 +56,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [0953-reverse-only-letters](https://github.com/altairkaitou/LeetCodePractice/tree/master/0953-reverse-only-letters) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 # Binary Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0953-reverse-only-letters](https://github.com/altairkaitou/LeetCodePractice/tree/master/0953-reverse-only-letters) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [1954-replace-all-digits-with-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1954-replace-all-digits-with-characters) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
@@ -109,3 +111,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
+# String Matching
+|  |
+| ------- |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
