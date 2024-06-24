@@ -16,6 +16,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Matrix
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
 # String Matching
 |  |
@@ -141,3 +144,11 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
