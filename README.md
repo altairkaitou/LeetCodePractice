@@ -28,6 +28,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0001-two-sum) |
+| [0160-intersection-of-two-linked-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0015-3sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
+| [0160-intersection-of-two-linked-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 # Bit Manipulation
 |  |
 | ------- |
