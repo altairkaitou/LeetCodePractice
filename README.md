@@ -12,6 +12,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0283-move-zeroes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0345-reverse-vowels-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0696-count-binary-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0696-count-binary-substrings) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
