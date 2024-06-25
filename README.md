@@ -20,6 +20,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0953-reverse-only-letters](https://github.com/altairkaitou/LeetCodePractice/tree/master/0953-reverse-only-letters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2093-check-if-string-is-a-prefix-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 # Tree
 |  |
 | ------- |
