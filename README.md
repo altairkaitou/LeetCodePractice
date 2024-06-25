@@ -68,6 +68,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0202-happy-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # String Matching
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 # Tree
 |  |
