@@ -28,6 +28,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Binary Search
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Binary Tree
 |  |
 | ------- |
@@ -194,3 +197,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+# Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
