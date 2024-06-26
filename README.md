@@ -50,6 +50,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
 | [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # Sorting
 |  |
@@ -159,11 +160,13 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 # Binary Tree
@@ -181,6 +185,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
 # Queue
 |  |
 | ------- |
@@ -201,3 +206,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+# Divide and Conquer
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
