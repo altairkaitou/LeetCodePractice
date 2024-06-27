@@ -223,3 +223,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1916-find-center-of-star-graph) |
