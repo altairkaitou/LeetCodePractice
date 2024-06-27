@@ -22,6 +22,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/altairkaitou/LeetCodePractice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/altairkaitou/LeetCodePractice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 # Two Pointers
@@ -160,6 +162,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/altairkaitou/LeetCodePractice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/altairkaitou/LeetCodePractice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 # String Matching
