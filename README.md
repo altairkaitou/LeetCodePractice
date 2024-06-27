@@ -109,6 +109,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0009-palindrome-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0202-happy-number) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # String
 |  |
@@ -156,6 +157,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
