@@ -41,6 +41,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 # Matrix
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
+| [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 # String Matching
@@ -161,6 +164,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/0345-reverse-vowels-of-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/altairkaitou/LeetCodePractice/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
+| [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 # Counting
 |  |
 | ------- |
