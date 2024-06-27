@@ -13,6 +13,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0841-shortest-distance-to-a-character](https://github.com/altairkaitou/LeetCodePractice/tree/master/0841-shortest-distance-to-a-character) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0202-happy-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
@@ -65,6 +67,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/altairkaitou/LeetCodePractice/tree/master/0455-assign-cookies) |
+| [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -235,6 +239,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 # Graph
 |  |
