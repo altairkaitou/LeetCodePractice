@@ -9,6 +9,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0015-3sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/altairkaitou/LeetCodePractice/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0219-contains-duplicate-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0141-linked-list-cycle](https://github.com/altairkaitou/LeetCodePractice/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/altairkaitou/LeetCodePractice/tree/master/0594-longest-harmonious-subsequence) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
