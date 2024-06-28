@@ -58,6 +58,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0853-most-profit-assigning-work](https://github.com/altairkaitou/LeetCodePractice/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
+| [2379-maximum-total-importance-of-roads](https://github.com/altairkaitou/LeetCodePractice/tree/master/2379-maximum-total-importance-of-roads) |
 | [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # Sorting
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/altairkaitou/LeetCodePractice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-maximum-total-importance-of-roads](https://github.com/altairkaitou/LeetCodePractice/tree/master/2379-maximum-total-importance-of-roads) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 # Two Pointers
@@ -245,3 +247,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1916-find-center-of-star-graph) |
+| [2379-maximum-total-importance-of-roads](https://github.com/altairkaitou/LeetCodePractice/tree/master/2379-maximum-total-importance-of-roads) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/altairkaitou/LeetCodePractice/tree/master/2379-maximum-total-importance-of-roads) |
