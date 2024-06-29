@@ -201,10 +201,12 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -253,9 +255,14 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 # Graph
 |  |
 | ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1916-find-center-of-star-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1916-find-center-of-star-graph) |
 | [2379-maximum-total-importance-of-roads](https://github.com/altairkaitou/LeetCodePractice/tree/master/2379-maximum-total-importance-of-roads) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/altairkaitou/LeetCodePractice/tree/master/2379-maximum-total-importance-of-roads) |
+# Topological Sort
+|  |
+| ------- |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
