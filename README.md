@@ -23,6 +23,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1675-magnetic-force-between-two-balls](https://github.com/altairkaitou/LeetCodePractice/tree/master/1675-magnetic-force-between-two-balls) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/altairkaitou/LeetCodePractice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/altairkaitou/LeetCodePractice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0822-unique-morse-code-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/0822-unique-morse-code-words) |
 | [0876-hand-of-straights](https://github.com/altairkaitou/LeetCodePractice/tree/master/0876-hand-of-straights) |
+| [1370-count-number-of-nice-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0009-palindrome-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0202-happy-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3055-maximum-odd-binary-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/3055-maximum-odd-binary-number) |
 # String
@@ -171,6 +174,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0643-maximum-average-subarray-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/0643-maximum-average-subarray-i) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/altairkaitou/LeetCodePractice/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1370-count-number-of-nice-subarrays) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/altairkaitou/LeetCodePractice/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
