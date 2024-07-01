@@ -35,6 +35,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 # Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0861-flipping-an-image](https://github.com/altairkaitou/LeetCodePractice/tree/master/0861-flipping-an-image) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1873-longest-nice-substring](https://github.com/altairkaitou/LeetCodePractice/tree/master/1873-longest-nice-substring) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 # Matrix
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/altairkaitou/LeetCodePractice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/altairkaitou/LeetCodePractice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 # String Matching
 |  |
 | ------- |
@@ -230,10 +233,12 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 # Prefix Sum
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/altairkaitou/LeetCodePractice/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 # Stack
 |  |
 | ------- |
