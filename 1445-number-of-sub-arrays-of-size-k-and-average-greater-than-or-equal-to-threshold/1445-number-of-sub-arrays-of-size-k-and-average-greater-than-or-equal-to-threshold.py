@@ -15,10 +15,7 @@ class Solution:
                     count += 1
                     
                 result -= arr[start]
-
-
                 start += 1
-                   
                 Countlen -= 1
 
         return count
