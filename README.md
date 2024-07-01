@@ -33,6 +33,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/altairkaitou/LeetCodePractice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/altairkaitou/LeetCodePractice/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2561-number-of-distinct-averages](https://github.com/altairkaitou/LeetCodePractice/tree/master/2561-number-of-distinct-averages) |
 | [2634-minimum-common-value](https://github.com/altairkaitou/LeetCodePractice/tree/master/2634-minimum-common-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/altairkaitou/LeetCodePractice/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 # Greedy
 |  |
@@ -189,6 +191,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/altairkaitou/LeetCodePractice/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/altairkaitou/LeetCodePractice/tree/master/2134-maximize-the-confusion-of-an-exam) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/altairkaitou/LeetCodePractice/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2856-count-complete-subarrays-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/altairkaitou/LeetCodePractice/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/altairkaitou/LeetCodePractice/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
