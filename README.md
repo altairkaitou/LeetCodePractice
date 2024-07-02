@@ -293,3 +293,14 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/altairkaitou/LeetCodePractice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/altairkaitou/LeetCodePractice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Graph
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/altairkaitou/LeetCodePractice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+<!---LeetCode Topics End-->
