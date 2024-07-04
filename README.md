@@ -313,6 +313,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/altairkaitou/LeetCodePractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Greedy
 |  |
@@ -365,6 +366,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Matrix
 |  |
 | ------- |
@@ -374,4 +376,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+## Counting
+|  |
+| ------- |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
