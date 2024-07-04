@@ -364,6 +364,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/altairkaitou/LeetCodePractice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -383,4 +384,16 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
