@@ -341,4 +341,12 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
