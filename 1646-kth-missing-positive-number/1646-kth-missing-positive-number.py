@@ -12,15 +12,16 @@ class Solution:
                     return current_num
                 
                 current_num += 1
-            
             current_num += 1
 
+        
         while missing_count < k:
             missing_count += 1
             if missing_count == k:
                 return current_num
             current_num += 1
-            
-            
-
+        
+        
+                
+                
         
