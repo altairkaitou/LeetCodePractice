@@ -1,8 +1,6 @@
 class Solution:
     def fairCandySwap(self, aliceSizes: List[int], bobSizes: List[int]) -> List[int]:
         aliceSum, bobSum = 0, 0
-        bobSizes.sort()
-        aliceSizes.sort()
 
         for i in range(len(aliceSizes)):
             aliceSum += aliceSizes[i]
