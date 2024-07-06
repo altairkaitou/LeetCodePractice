@@ -371,6 +371,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
+| [0374-guess-number-higher-or-lower](https://github.com/altairkaitou/LeetCodePractice/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -409,4 +410,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/altairkaitou/LeetCodePractice/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
