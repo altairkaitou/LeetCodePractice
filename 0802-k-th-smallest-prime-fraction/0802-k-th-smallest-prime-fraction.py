@@ -8,7 +8,7 @@ class Solution:
             for j in range(i + 1, n):
                 heappush(minHeap, (arr[i] / arr[j], (arr[i], arr[j])))
         
-        for _ in range(k):
+        for i in range(k):
             a, b = heappop(minHeap)[1]
         
         return [a,b]
