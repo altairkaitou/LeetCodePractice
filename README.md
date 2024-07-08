@@ -371,6 +371,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
+| [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/altairkaitou/LeetCodePractice/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Math
 |  |
 | ------- |
+| [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
 ## Interactive
 |  |
