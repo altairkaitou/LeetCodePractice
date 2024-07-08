@@ -307,6 +307,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/altairkaitou/LeetCodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/altairkaitou/LeetCodePractice/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/altairkaitou/LeetCodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/altairkaitou/LeetCodePractice/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
