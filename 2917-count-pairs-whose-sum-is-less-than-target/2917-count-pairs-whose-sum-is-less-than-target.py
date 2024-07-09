@@ -1,7 +1,7 @@
 class Solution:
     def countPairs(self, nums: List[int], target: int) -> int:
-        nums.sort()
         left = 0
+        nums.sort()
         right = len(nums) - 1
         count = 0
 
@@ -13,6 +13,7 @@ class Solution:
                 right -= 1
         
         return count
-
+            
+        
 
         
