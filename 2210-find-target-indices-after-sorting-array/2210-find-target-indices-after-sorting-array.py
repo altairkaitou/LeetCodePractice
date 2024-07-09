@@ -7,9 +7,7 @@ class Solution:
         for i in range(len(nums)):
             if nums[i] == target:
                 result.append(i)
-
         
         return result
-
 
         
