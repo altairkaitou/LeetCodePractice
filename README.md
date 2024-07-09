@@ -313,6 +313,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/altairkaitou/LeetCodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
+| [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -365,6 +367,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## String
 |  |
 | ------- |
+| [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Linked List
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/altairkaitou/LeetCodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/altairkaitou/LeetCodePractice/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -405,6 +409,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
+| [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Counting
 |  |
@@ -439,4 +444,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/altairkaitou/LeetCodePractice/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
+## Trie
+|  |
+| ------- |
+| [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 <!---LeetCode Topics End-->
