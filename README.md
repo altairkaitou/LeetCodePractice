@@ -381,6 +381,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -468,6 +469,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
