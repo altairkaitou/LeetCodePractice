@@ -6,7 +6,6 @@
 #         self.right = right
 class Solution:
     def allPossibleFBT(self, n: int) -> List[Optional[TreeNode]]:
-
         if n == 0 or n % 2 == 0:
             return []
         if n == 1:
@@ -25,7 +24,6 @@ class Solution:
         return result
 
         
-
 
 
 
