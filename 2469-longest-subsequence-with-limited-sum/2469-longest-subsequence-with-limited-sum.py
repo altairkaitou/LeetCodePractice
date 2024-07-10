@@ -15,7 +15,9 @@ class Solution:
             left = 0
             right = len(all_sum) - 1
 
-            while (left <= right):
+
+
+            while left <= right:
                 mid = left + (right - left) // 2
 
                 if all_sum[mid] == final:
@@ -25,7 +27,7 @@ class Solution:
                 else:
                     right = mid - 1
             
-            if all_sum[mid] > q:
+            if all_sum[mid] > final:
                 return mid - 1
             return mid 
 
