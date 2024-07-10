@@ -378,6 +378,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -434,6 +435,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
 | ------- |
@@ -474,6 +476,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
 |  |
 | ------- |
