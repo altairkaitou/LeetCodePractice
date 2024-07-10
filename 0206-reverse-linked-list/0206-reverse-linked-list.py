@@ -10,12 +10,11 @@ class Solution:
 
         while current:
             next_node = current.next
-            current.next = new_list
+            current.next = new_list 
             new_list = current
             current = next_node
         
         return new_list
 
-    
 
         
