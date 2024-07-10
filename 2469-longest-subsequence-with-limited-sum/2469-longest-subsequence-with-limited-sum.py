@@ -1,50 +1,37 @@
 class Solution:
     def answerQueries(self, nums: List[int], queries: List[int]) -> List[int]:
-        
-        result = []
-        all_sum = []
-        sum = 0
+        prefix_sum = []
+        result = 0
 
         nums.sort()
+        total = []
 
-        for i in range(len(nums)):
-            sum += nums[i]
-            all_sum.append(sum)
+        for num in nums:
+            result += num
+            prefix_sum.append(result)
         
-        def bns(all_sum, final):
+        def binarysearch(prefix_sum, q):
             left = 0
-            right = len(all_sum) - 1
-
-
-
-            while left <= right:
+            right = len(prefix_sum) - 1
+            while (left <= right):
                 mid = left + (right - left) // 2
-
-                if all_sum[mid] == final:
+                if prefix_sum[mid] == q:
                     return mid
-                elif all_sum[mid] < final:
-                    left = mid + 1
-                else:
+                elif prefix_sum[mid] > q:
                     right = mid - 1
-            
-            if all_sum[mid] > final:
+                else:
+                    left = mid + 1
+            if prefix_sum[mid] > q:
                 return mid - 1
-            return mid 
-
-        for q in queries:
-            q_length = bns(all_sum, q)
-            result.append(q_length + 1)
-
-
-        
-        
-
-        return result
-
-       
             
+            return mid 
+            
+        for q in queries:
+            final = binarysearch(prefix_sum, q)
+            total.append(final + 1)
+        return total 
+                    
+        
 
-
-
-
+            
         
