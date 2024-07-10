@@ -382,6 +382,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
