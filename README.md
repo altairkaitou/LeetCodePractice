@@ -433,6 +433,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 ## Tree
 |  |
 | ------- |
@@ -445,6 +446,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/altairkaitou/LeetCodePractice/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
+| [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
