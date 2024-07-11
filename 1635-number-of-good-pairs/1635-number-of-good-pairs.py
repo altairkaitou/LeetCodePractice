@@ -11,7 +11,7 @@ class Solution(object):
 
         for num in nums:
             if num in freq:
-                count += 1
+                count += freq[num]
                 freq[num] += 1
             else:
                 freq[num] = 1
