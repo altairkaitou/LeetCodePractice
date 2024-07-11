@@ -1,17 +1,17 @@
 class Solution:
     def reverseParentheses(self, s: str) -> str:
-        stack_bracket = []
+        stack = []
 
         for char in s:
             if char == ')':
                 in_bracket = []
-                while stack_bracket and stack_bracket[-1] != '(':
-                    in_bracket.append(stack_bracket.pop())
-                stack_bracket.pop()
+                while stack and stack[-1] != '(':
+                    in_bracket.append(stack.pop())
+                stack.pop()
                 for c in in_bracket:
-                    stack_bracket.append(c)
+                    stack.append(c)
             else:
-                stack_bracket.append(char)
+                stack.append(char)
         
-        return "".join(stack_bracket)
+        return ''.join(stack)
         
