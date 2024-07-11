@@ -320,6 +320,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/altairkaitou/LeetCodePractice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1803-average-waiting-time](https://github.com/altairkaitou/LeetCodePractice/tree/master/1803-average-waiting-time) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 ## Sliding Window
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Counting
 |  |
 | ------- |
+| [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
@@ -462,6 +465,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/altairkaitou/LeetCodePractice/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
+| [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
 ## Interactive
 |  |
