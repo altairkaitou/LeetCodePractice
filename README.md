@@ -377,6 +377,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## String
 |  |
 | ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
@@ -497,4 +498,5 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
