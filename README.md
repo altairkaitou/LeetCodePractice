@@ -330,6 +330,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/altairkaitou/LeetCodePractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -412,6 +414,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2058-concatenation-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
+| [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 ## Binary Search
 |  |
 | ------- |
@@ -522,6 +525,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 ## Brainteaser
 |  |
 | ------- |
