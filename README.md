@@ -333,6 +333,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
@@ -426,6 +428,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1803-average-waiting-time](https://github.com/altairkaitou/LeetCodePractice/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
@@ -459,12 +462,14 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
