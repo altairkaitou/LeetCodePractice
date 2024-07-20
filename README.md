@@ -335,6 +335,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/altairkaitou/LeetCodePractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Greedy
 |  |
@@ -363,6 +364,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -420,6 +422,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2299-merge-nodes-in-between-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
+| [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -456,6 +459,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
 | ------- |
