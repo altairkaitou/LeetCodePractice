@@ -324,6 +324,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1646-kth-missing-positive-number) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/altairkaitou/LeetCodePractice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1803-average-waiting-time](https://github.com/altairkaitou/LeetCodePractice/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2058-concatenation-of-array) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
