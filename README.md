@@ -335,6 +335,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/altairkaitou/LeetCodePractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
