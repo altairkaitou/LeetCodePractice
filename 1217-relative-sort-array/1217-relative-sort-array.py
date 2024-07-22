@@ -8,16 +8,11 @@ class Solution:
                     result.append(arr1[j])
                     arr1[j] = -1
         
-        remain = []
-
-        for i in range(len(arr1)):
-            if arr1[i] > -1:
-                remain.append(arr1[i])
+        remain = [x for x in arr1 if x != -1]
         
         remain.sort()
         
-        for value in remain:
-            result.append(value)
+        result.extend(remain)
         
         return result
         
