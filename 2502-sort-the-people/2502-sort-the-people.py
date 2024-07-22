@@ -5,7 +5,7 @@ class Solution:
 
         people.sort(reverse=True, key=lambda x: x[0])
 
-        sorted_names = [name for height, name in people]
+        sorted_names = [name for heights , name in people]
 
         return sorted_names
         
