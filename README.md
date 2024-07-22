@@ -333,6 +333,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
+| [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sliding Window
 |  |
@@ -415,6 +418,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
