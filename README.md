@@ -308,6 +308,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0747-min-cost-climbing-stairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/0338-counting-bits) |
+| [0747-min-cost-climbing-stairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0930-all-possible-full-binary-trees](https://github.com/altairkaitou/LeetCodePractice/tree/master/0930-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/1086-divisor-game) |
