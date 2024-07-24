@@ -318,6 +318,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1137-height-checker](https://github.com/altairkaitou/LeetCodePractice/tree/master/1137-height-checker) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/1217-relative-sort-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [1137-height-checker](https://github.com/altairkaitou/LeetCodePractice/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/1217-relative-sort-array) |
+| [1333-sort-the-jumbled-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
