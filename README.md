@@ -409,6 +409,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1741-sort-array-by-increasing-frequency](https://github.com/altairkaitou/LeetCodePractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/2825-minimize-string-length) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Sliding Window
 |  |
@@ -441,6 +442,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
+| [2825-minimize-string-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/2825-minimize-string-length) |
 | [3379-score-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/3379-score-of-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Linked List
