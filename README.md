@@ -302,6 +302,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Graph
 |  |
 | ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/altairkaitou/LeetCodePractice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
@@ -429,6 +430,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/1086-divisor-game) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## String
 |  |
 | ------- |
@@ -629,4 +631,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 <!---LeetCode Topics End-->
