@@ -319,6 +319,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/altairkaitou/LeetCodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1137-height-checker](https://github.com/altairkaitou/LeetCodePractice/tree/master/1137-height-checker) |
+| [1196-filling-bookcase-shelves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/1217-relative-sort-array) |
 | [1333-sort-the-jumbled-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/1333-sort-the-jumbled-numbers) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/1086-divisor-game) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
+| [1196-filling-bookcase-shelves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String
