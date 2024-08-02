@@ -1,7 +1,7 @@
 class Solution {
+    static final int MOD = 1000000007;
 
     public int nthMagicalNumber(int n, int a, int b) {
-        int MOD = 1000000007;
         long lcm = lcm(a, b);
         long left = 1;
         long right = (long) n * Math.min(a, b);
