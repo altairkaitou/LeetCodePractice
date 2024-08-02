@@ -404,6 +404,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## String
 |  |
 | ------- |
+| [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1472-increasing-decreasing-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1472-increasing-decreasing-string) |
