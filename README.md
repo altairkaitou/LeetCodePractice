@@ -449,6 +449,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1472-increasing-decreasing-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1472-increasing-decreasing-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/altairkaitou/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
@@ -571,6 +572,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [1358-find-positive-integer-solution-for-a-given-equation](https://github.com/altairkaitou/LeetCodePractice/tree/master/1358-find-positive-integer-solution-for-a-given-equation) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Trie
