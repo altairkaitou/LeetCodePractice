@@ -314,6 +314,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0747-min-cost-climbing-stairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
+| [0879-maximize-distance-to-closest-person](https://github.com/altairkaitou/LeetCodePractice/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
