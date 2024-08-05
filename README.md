@@ -342,6 +342,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1803-average-waiting-time](https://github.com/altairkaitou/LeetCodePractice/tree/master/1803-average-waiting-time) |
 | [2058-concatenation-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/altairkaitou/LeetCodePractice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2825-minimize-string-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/2825-minimize-string-length) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/altairkaitou/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
@@ -526,6 +529,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1472-increasing-decreasing-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1472-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Bit Manipulation
 |  |
