@@ -451,6 +451,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/altairkaitou/LeetCodePractice/tree/master/0038-count-and-say) |
 | [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
