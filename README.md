@@ -316,6 +316,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0879-maximize-distance-to-closest-person](https://github.com/altairkaitou/LeetCodePractice/tree/master/0879-maximize-distance-to-closest-person) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/altairkaitou/LeetCodePractice/tree/master/0890-lemonade-change) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/altairkaitou/LeetCodePractice/tree/master/0890-lemonade-change) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/altairkaitou/LeetCodePractice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
