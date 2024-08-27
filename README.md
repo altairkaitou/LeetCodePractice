@@ -303,6 +303,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Graph
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/altairkaitou/LeetCodePractice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2121-find-if-path-exists-in-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/2121-find-if-path-exists-in-graph) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1196-filling-bookcase-shelves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1217-relative-sort-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/1217-relative-sort-array) |
+| [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0789-kth-largest-element-in-a-stream](https://github.com/altairkaitou/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
+| [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -676,6 +679,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Shortest Path
 |  |
 | ------- |
+| [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Breadth-First Search
 |  |
