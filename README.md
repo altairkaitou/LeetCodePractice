@@ -299,6 +299,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/altairkaitou/LeetCodePractice/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Graph
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/altairkaitou/LeetCodePractice/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/altairkaitou/LeetCodePractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/altairkaitou/LeetCodePractice/tree/master/1803-average-waiting-time) |
+| [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
 | [2058-concatenation-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -520,6 +522,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Heap (Priority Queue)
 |  |
@@ -638,6 +641,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
+| [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/2121-find-if-path-exists-in-graph) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Counting Sort
@@ -684,6 +688,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Breadth-First Search
 |  |
 | ------- |
+| [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
 | [2121-find-if-path-exists-in-graph](https://github.com/altairkaitou/LeetCodePractice/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Search Tree
 |  |
