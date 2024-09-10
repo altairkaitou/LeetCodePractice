@@ -9,8 +9,9 @@
  * }
  */
 class Solution {
+
     private int gcd(int a, int b) {
-        if (b == 0) return a;
+        if (b == 0 ) return a;
         return gcd(b, a % b);
     }
     public ListNode insertGreatestCommonDivisors(ListNode head) {
@@ -22,10 +23,9 @@ class Solution {
             newNode.next = current.next;
             current.next = newNode;
             current = newNode.next;
+
         }
-
         return head;
-
         
     }
 }
