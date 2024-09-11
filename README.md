@@ -569,6 +569,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/altairkaitou/LeetCodePractice/tree/master/0476-number-complement) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
