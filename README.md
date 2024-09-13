@@ -331,6 +331,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/1333-sort-the-jumbled-numbers) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
+| [1435-xor-queries-of-a-subarray](https://github.com/altairkaitou/LeetCodePractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
+| [1435-xor-queries-of-a-subarray](https://github.com/altairkaitou/LeetCodePractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
 ## Dynamic Programming
 |  |
@@ -568,6 +570,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0338-counting-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/altairkaitou/LeetCodePractice/tree/master/0476-number-complement) |
+| [1435-xor-queries-of-a-subarray](https://github.com/altairkaitou/LeetCodePractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/altairkaitou/LeetCodePractice/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
