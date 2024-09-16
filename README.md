@@ -313,6 +313,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
 | [0747-min-cost-climbing-stairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/altairkaitou/LeetCodePractice/tree/master/0792-binary-search) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/altairkaitou/LeetCodePractice/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
+| [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0038-count-and-say](https://github.com/altairkaitou/LeetCodePractice/tree/master/0038-count-and-say) |
+| [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
 | [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
+| [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
 | [0910-nth-magical-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/1086-divisor-game) |
