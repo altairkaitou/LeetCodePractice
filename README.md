@@ -361,6 +361,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2727-number-of-senior-citizens](https://github.com/altairkaitou/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -433,6 +434,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
+| [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [2825-minimize-string-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/2825-minimize-string-length) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1196-filling-bookcase-shelves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1196-filling-bookcase-shelves) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/altairkaitou/LeetCodePractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -479,6 +482,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/altairkaitou/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
+| [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [2825-minimize-string-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/2825-minimize-string-length) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3379-score-of-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/3379-score-of-a-string) |
@@ -632,6 +636,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
+| [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
 ## Recursion
 |  |
 | ------- |
