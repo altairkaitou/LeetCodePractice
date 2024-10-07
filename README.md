@@ -496,6 +496,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/altairkaitou/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2825-minimize-string-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/2825-minimize-string-length) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/altairkaitou/LeetCodePractice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2411-spiral-matrix-iv](https://github.com/altairkaitou/LeetCodePractice/tree/master/2411-spiral-matrix-iv) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Binary Search
@@ -676,6 +678,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 ## Brainteaser
 |  |
