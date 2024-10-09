@@ -379,6 +379,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/altairkaitou/LeetCodePractice/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/altairkaitou/LeetCodePractice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0038-count-and-say](https://github.com/altairkaitou/LeetCodePractice/tree/master/0038-count-and-say) |
 | [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
 | [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1472-increasing-decreasing-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1472-increasing-decreasing-string) |
@@ -676,6 +678,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
