@@ -17,6 +17,7 @@ class Solution {
                 maxWidth = Math.max(maxWidth, i - stack.pop());
             }
         }
+   
 
         return maxWidth;
 
