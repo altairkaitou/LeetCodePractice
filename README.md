@@ -323,6 +323,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0924-fair-candy-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0924-fair-candy-swap) |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0966-binary-subarrays-with-sum) |
+| [1002-maximum-width-ramp](https://github.com/altairkaitou/LeetCodePractice/tree/master/1002-maximum-width-ramp) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/altairkaitou/LeetCodePractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1096-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/1096-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1137-height-checker](https://github.com/altairkaitou/LeetCodePractice/tree/master/1137-height-checker) |
@@ -679,6 +680,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/altairkaitou/LeetCodePractice/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -754,4 +756,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/altairkaitou/LeetCodePractice/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
