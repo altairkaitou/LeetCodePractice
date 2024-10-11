@@ -351,6 +351,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1803-average-waiting-time](https://github.com/altairkaitou/LeetCodePractice/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/altairkaitou/LeetCodePractice/tree/master/1923-sentence-similarity-iii) |
 | [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/altairkaitou/LeetCodePractice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2058-concatenation-of-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/altairkaitou/LeetCodePractice/tree/master/1694-make-sum-divisible-by-p) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/altairkaitou/LeetCodePractice/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/altairkaitou/LeetCodePractice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/altairkaitou/LeetCodePractice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Counting
