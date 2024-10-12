@@ -362,6 +362,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2411-spiral-matrix-iv](https://github.com/altairkaitou/LeetCodePractice/tree/master/2411-spiral-matrix-iv) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/altairkaitou/LeetCodePractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -388,6 +389,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/altairkaitou/LeetCodePractice/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -417,6 +419,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2447-merge-similar-items](https://github.com/altairkaitou/LeetCodePractice/tree/master/2447-merge-similar-items) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/altairkaitou/LeetCodePractice/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/altairkaitou/LeetCodePractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1435-xor-queries-of-a-subarray](https://github.com/altairkaitou/LeetCodePractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1694-make-sum-divisible-by-p](https://github.com/altairkaitou/LeetCodePractice/tree/master/1694-make-sum-divisible-by-p) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/altairkaitou/LeetCodePractice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Counting
@@ -653,6 +658,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1468-check-if-n-and-its-double-exist](https://github.com/altairkaitou/LeetCodePractice/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/altairkaitou/LeetCodePractice/tree/master/1923-sentence-similarity-iii) |
+| [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/altairkaitou/LeetCodePractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
