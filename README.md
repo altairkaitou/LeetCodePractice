@@ -514,6 +514,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0206-reverse-linked-list) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
@@ -671,6 +673,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/altairkaitou/LeetCodePractice/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/0206-reverse-linked-list) |
