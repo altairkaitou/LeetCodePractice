@@ -367,6 +367,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/altairkaitou/LeetCodePractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/altairkaitou/LeetCodePractice/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/altairkaitou/LeetCodePractice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/altairkaitou/LeetCodePractice/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/2755-extra-characters-in-a-string) |
 | [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-longest-subsequence-with-limited-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2469-longest-subsequence-with-limited-sum) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/altairkaitou/LeetCodePractice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -586,6 +588,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/altairkaitou/LeetCodePractice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/altairkaitou/LeetCodePractice/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/altairkaitou/LeetCodePractice/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Counting
 |  |
