@@ -384,6 +384,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | ------- |
 | [0890-lemonade-change](https://github.com/altairkaitou/LeetCodePractice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1304-longest-happy-string) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/altairkaitou/LeetCodePractice/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/altairkaitou/LeetCodePractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/altairkaitou/LeetCodePractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -497,6 +498,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/altairkaitou/LeetCodePractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1304-longest-happy-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1304-longest-happy-string) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1472-increasing-decreasing-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1472-increasing-decreasing-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -584,6 +586,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0789-kth-largest-element-in-a-stream](https://github.com/altairkaitou/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0802-k-th-smallest-prime-fraction](https://github.com/altairkaitou/LeetCodePractice/tree/master/0802-k-th-smallest-prime-fraction) |
 | [0948-sort-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/0948-sort-an-array) |
+| [1304-longest-happy-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/altairkaitou/LeetCodePractice/tree/master/1325-path-with-maximum-probability) |
 | [1397-search-suggestions-system](https://github.com/altairkaitou/LeetCodePractice/tree/master/1397-search-suggestions-system) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/altairkaitou/LeetCodePractice/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
