@@ -382,6 +382,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Greedy
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0670-maximum-swap) |
 | [0890-lemonade-change](https://github.com/altairkaitou/LeetCodePractice/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/altairkaitou/LeetCodePractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1304-longest-happy-string) |
@@ -643,6 +644,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
+| [0670-maximum-swap](https://github.com/altairkaitou/LeetCodePractice/tree/master/0670-maximum-swap) |
 | [0910-nth-magical-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1013-fibonacci-number) |
 | [1086-divisor-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/1086-divisor-game) |
