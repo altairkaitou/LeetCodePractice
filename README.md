@@ -451,6 +451,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/altairkaitou/LeetCodePractice/tree/master/1635-number-of-good-pairs) |
 | [1694-make-sum-divisible-by-p](https://github.com/altairkaitou/LeetCodePractice/tree/master/1694-make-sum-divisible-by-p) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/altairkaitou/LeetCodePractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/altairkaitou/LeetCodePractice/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1472-increasing-decreasing-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1472-increasing-decreasing-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/altairkaitou/LeetCodePractice/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/altairkaitou/LeetCodePractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1894-merge-strings-alternately](https://github.com/altairkaitou/LeetCodePractice/tree/master/1894-merge-strings-alternately) |
 | [1923-sentence-similarity-iii](https://github.com/altairkaitou/LeetCodePractice/tree/master/1923-sentence-similarity-iii) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Backtracking
 |  |
 | ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/altairkaitou/LeetCodePractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Enumeration
 |  |
