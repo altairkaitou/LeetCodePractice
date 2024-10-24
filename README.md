@@ -630,6 +630,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/altairkaitou/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/altairkaitou/LeetCodePractice/tree/master/0930-all-possible-full-binary-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/altairkaitou/LeetCodePractice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [0222-count-complete-tree-nodes](https://github.com/altairkaitou/LeetCodePractice/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/altairkaitou/LeetCodePractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0930-all-possible-full-binary-trees](https://github.com/altairkaitou/LeetCodePractice/tree/master/0930-all-possible-full-binary-trees) |
+| [0988-flip-equivalent-binary-trees](https://github.com/altairkaitou/LeetCodePractice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1484-linked-list-in-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/altairkaitou/LeetCodePractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 ## Depth-First Search
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/altairkaitou/LeetCodePractice/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/altairkaitou/LeetCodePractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1484-linked-list-in-binary-tree](https://github.com/altairkaitou/LeetCodePractice/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/altairkaitou/LeetCodePractice/tree/master/2035-count-sub-islands) |
