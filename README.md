@@ -378,6 +378,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/altairkaitou/LeetCodePractice/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/altairkaitou/LeetCodePractice/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/altairkaitou/LeetCodePractice/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/altairkaitou/LeetCodePractice/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -474,6 +475,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/altairkaitou/LeetCodePractice/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/altairkaitou/LeetCodePractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -627,6 +629,7 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/altairkaitou/LeetCodePractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3291-find-if-array-can-be-sorted](https://github.com/altairkaitou/LeetCodePractice/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/altairkaitou/LeetCodePractice/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/altairkaitou/LeetCodePractice/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Tree
 |  |
