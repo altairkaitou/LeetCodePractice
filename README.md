@@ -813,4 +813,8 @@ A collection of LeetCode questions i already practiced! - Created using [LeetHub
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/altairkaitou/LeetCodePractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/altairkaitou/LeetCodePractice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
