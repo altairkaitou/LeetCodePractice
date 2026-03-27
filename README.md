@@ -375,6 +375,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 | [2836-neither-minimum-nor-maximum](https://github.com/altairkaitou/LeetCodePractice/tree/master/2836-neither-minimum-nor-maximum) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/altairkaitou/LeetCodePractice/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/altairkaitou/LeetCodePractice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/altairkaitou/LeetCodePractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 | [3291-find-if-array-can-be-sorted](https://github.com/altairkaitou/LeetCodePractice/tree/master/3291-find-if-array-can-be-sorted) |
@@ -556,6 +557,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/altairkaitou/LeetCodePractice/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/altairkaitou/LeetCodePractice/tree/master/2846-robot-collisions) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/altairkaitou/LeetCodePractice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3226-minimum-number-game](https://github.com/altairkaitou/LeetCodePractice/tree/master/3226-minimum-number-game) |
 ## Binary Search
 |  |
@@ -593,6 +595,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 | [2132-convert-1d-array-into-2d-array](https://github.com/altairkaitou/LeetCodePractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/altairkaitou/LeetCodePractice/tree/master/2411-spiral-matrix-iv) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/altairkaitou/LeetCodePractice/tree/master/2585-delete-greatest-value-in-each-row) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/altairkaitou/LeetCodePractice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -672,6 +675,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/altairkaitou/LeetCodePractice/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2645-pass-the-pillow](https://github.com/altairkaitou/LeetCodePractice/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/altairkaitou/LeetCodePractice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/altairkaitou/LeetCodePractice/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Interactive
 |  |
 | ------- |
