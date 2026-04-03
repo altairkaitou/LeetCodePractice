@@ -311,6 +311,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0539-minimum-time-difference](https://github.com/altairkaitou/LeetCodePractice/tree/master/0539-minimum-time-difference) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/altairkaitou/LeetCodePractice/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/altairkaitou/LeetCodePractice/tree/master/0349-intersection-of-two-arrays) |
 | [0889-buddy-strings](https://github.com/altairkaitou/LeetCodePractice/tree/master/0889-buddy-strings) |
