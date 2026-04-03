@@ -663,6 +663,7 @@ A collection of LeetCode questions i already practiced to improve myself - Creat
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/altairkaitou/LeetCodePractice/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/altairkaitou/LeetCodePractice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/altairkaitou/LeetCodePractice/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/altairkaitou/LeetCodePractice/tree/master/0367-valid-perfect-square) |
